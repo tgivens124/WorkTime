@@ -9,12 +9,8 @@
 /* Begin PBXBuildFile section */
 		5D0E11F02A4112E1005F23C9 /* Window.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0E11EF2A4112E1005F23C9 /* Window.swift */; };
 		5D0E12012A412941005F23C9 /* cloud (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11F92A412941005F23C9 /* cloud (1).png */; };
-		5D0E12022A412941005F23C9 /* chick.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11FA2A412941005F23C9 /* chick.png */; };
 		5D0E12032A412941005F23C9 /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11FB2A412941005F23C9 /* cat.png */; };
-		5D0E12042A412941005F23C9 /* panda (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11FC2A412941005F23C9 /* panda (1).png */; };
 		5D0E12052A412941005F23C9 /* cat (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11FD2A412941005F23C9 /* cat (1).png */; };
-		5D0E12062A412941005F23C9 /* panda (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11FE2A412941005F23C9 /* panda (2).png */; };
-		5D0E12072A412941005F23C9 /* sandwich.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E11FF2A412941005F23C9 /* sandwich.png */; };
 		5D0E12082A412941005F23C9 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E12002A412941005F23C9 /* cloud.png */; };
 		5D6D77082A3D18FC00831325 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D77072A3D18FC00831325 /* AppDelegate.swift */; };
 		5D6D770A2A3D18FC00831325 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D6D77092A3D18FC00831325 /* ViewController.swift */; };
@@ -25,12 +21,8 @@
 /* Begin PBXFileReference section */
 		5D0E11EF2A4112E1005F23C9 /* Window.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Window.swift; sourceTree = "<group>"; };
 		5D0E11F92A412941005F23C9 /* cloud (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cloud (1).png"; sourceTree = SOURCE_ROOT; };
-		5D0E11FA2A412941005F23C9 /* chick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chick.png; sourceTree = SOURCE_ROOT; };
 		5D0E11FB2A412941005F23C9 /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = SOURCE_ROOT; };
-		5D0E11FC2A412941005F23C9 /* panda (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "panda (1).png"; sourceTree = SOURCE_ROOT; };
 		5D0E11FD2A412941005F23C9 /* cat (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cat (1).png"; sourceTree = SOURCE_ROOT; };
-		5D0E11FE2A412941005F23C9 /* panda (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "panda (2).png"; sourceTree = SOURCE_ROOT; };
-		5D0E11FF2A412941005F23C9 /* sandwich.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sandwich.png; sourceTree = SOURCE_ROOT; };
 		5D0E12002A412941005F23C9 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud.png; sourceTree = SOURCE_ROOT; };
 		5D6D77042A3D18FC00831325 /* BreakTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BreakTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D6D77072A3D18FC00831325 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -77,12 +69,8 @@
 				5D6D770D2A3D18FD00831325 /* Main.storyboard */,
 				5D0E11FD2A412941005F23C9 /* cat (1).png */,
 				5D0E11FB2A412941005F23C9 /* cat.png */,
-				5D0E11FA2A412941005F23C9 /* chick.png */,
 				5D0E11F92A412941005F23C9 /* cloud (1).png */,
 				5D0E12002A412941005F23C9 /* cloud.png */,
-				5D0E11FC2A412941005F23C9 /* panda (1).png */,
-				5D0E11FE2A412941005F23C9 /* panda (2).png */,
-				5D0E11FF2A412941005F23C9 /* sandwich.png */,
 				5D6D77102A3D18FD00831325 /* BreakTime.entitlements */,
 			);
 			path = BreakTime;
@@ -149,13 +137,9 @@
 				5D0E12032A412941005F23C9 /* cat.png in Resources */,
 				5D0E12052A412941005F23C9 /* cat (1).png in Resources */,
 				5D6D770C2A3D18FD00831325 /* Assets.xcassets in Resources */,
-				5D0E12042A412941005F23C9 /* panda (1).png in Resources */,
-				5D0E12072A412941005F23C9 /* sandwich.png in Resources */,
 				5D0E12082A412941005F23C9 /* cloud.png in Resources */,
 				5D0E12012A412941005F23C9 /* cloud (1).png in Resources */,
-				5D0E12022A412941005F23C9 /* chick.png in Resources */,
 				5D6D770F2A3D18FD00831325 /* Main.storyboard in Resources */,
-				5D0E12062A412941005F23C9 /* panda (2).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
