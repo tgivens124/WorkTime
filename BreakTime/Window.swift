@@ -19,9 +19,13 @@ class Window: NSWindowController {
         window?.level = .floating
         window?.collectionBehavior = .canJoinAllSpaces
 
-        window?.styleMask.remove( .miniaturizable)
         window?.styleMask.remove( .resizable)
         window?.titleVisibility = .hidden
+    
+        
+        
+
     }
+   
 
 }
